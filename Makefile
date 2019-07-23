@@ -1,7 +1,7 @@
 
 hello: hello.o
-  $(CC) $(CFLAGS) -o $@ $^
+	$(CC) $(CFLAGS) -o $@ $^
 
 test: hello
-  ./hello
-  
+	./hello
+
