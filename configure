@@ -1,2 +1,3 @@
+#!/bin/sh
 # This does nothing but pass
 true
